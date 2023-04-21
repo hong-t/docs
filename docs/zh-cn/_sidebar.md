@@ -1,3 +1,3 @@
-- 现在开始
+- 关于本站
 
-  - [快速开始](zh-cn/quickstart.md)
+  - [开始](zh-cn/quickstart.md)
