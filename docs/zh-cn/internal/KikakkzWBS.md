@@ -16,19 +16,19 @@
 
 - [ ] smoketest V0.1 - 唐红/大强/KK - 4/22 （后端table/CRUD/实现重构，前端测试计划管理，good-manager模块跑通）:blue_heart:
 - [X] 用户模块handler/options pattern重构、mgr/mw合并 - KK - 4/22 - done :green_heart:
-- [ ] handler/options pattern重构、mgr/mw合并WBS - KK - 4/22```:blue_heart:
-- [ ] staker-manager dtm调用/PUBSUB重构WBS - KK - 4/22```:blue_heart:
-- [ ] staker-manager充值模块dtm调用/PUBSUB重构 - KK - 4/22```:blue_heart:
-- [ ] web3eye.io offline/online分离架构Coding完成 - 姜杰 - 4/22```:blue_heart:
-- [ ] FIL-Peggy V0.1收益核算接口/收益核算接口GAS优化 - P1 - 4/7 - 4/14 - 4/22```:blue_heart:
-- [ ] HashAge网页应用设计 - KK/FZ - 4/20```:blue_heart:
-- [ ] 官网产品页文案确定 - 雪冬/KK - 4/22```:blue_heart:
-- [ ] 操作日志prototype确定 - KK - 4/22```:blue_heart:
-- [ ] Filecoin 1.22升级 - KK - 4/22```:blue_heart:
-- [ ] boost/swan boost切换/瓶颈确认 - 唐红 - 4/22```:blue_heart:
-- [X] 文档站上线 - 唐红 - 4/22 - done```:green_heart:
-- [X] 铁鱼上线部署 - 王 - 4/20 - done```:green_heart:
-- [X] More铁鱼提现支持 - 唐红/姜杰 - 4/20 - done```:green_heart:
+- [ ] handler/options pattern重构、mgr/mw合并WBS - KK - 4/22:blue_heart:
+- [ ] staker-manager dtm调用/PUBSUB重构WBS - KK - 4/22:blue_heart:
+- [ ] staker-manager充值模块dtm调用/PUBSUB重构 - KK - 4/22:blue_heart:
+- [ ] web3eye.io offline/online分离架构Coding完成 - 姜杰 - 4/22:blue_heart:
+- [ ] FIL-Peggy V0.1收益核算接口/收益核算接口GAS优化 - P1 - 4/7 - 4/14 - 4/22:blue_heart:
+- [ ] HashAge网页应用设计 - KK/FZ - 4/20:blue_heart:
+- [ ] 官网产品页文案确定 - 雪冬/KK - 4/22:blue_heart:
+- [ ] 操作日志prototype确定 - KK - 4/22:blue_heart:
+- [ ] Filecoin 1.22升级 - KK - 4/22:blue_heart:
+- [ ] boost/swan boost切换/瓶颈确认 - 唐红 - 4/22:blue_heart:
+- [X] 文档站上线 - 唐红 - 4/22 - done:green_heart:
+- [X] 铁鱼上线部署 - 王 - 4/20 - done:green_heart:
+- [X] More铁鱼提现支持 - 唐红/姜杰 - 4/20 - done:green_heart:
 
 ### 本周目标 :triangular_flag_on_post:
 
