@@ -24,3 +24,7 @@
 
   - [业务目标](zh-cn/peggy/ProductTarget.md)
   - [系统架构](zh-cn/peggy/SystemArchitecture.md)
+
+- 运维工具和文档
+  - [统一部署工具](https://github.com/NpoolPlatform/easy-deploy.git)
+  - [Legacy Filecoin部署工具](https://github.com/NpoolFilecoin/fbm.git)
