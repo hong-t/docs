@@ -8,7 +8,7 @@
 - 内部文档
 
   - WBS
-    - [KK的WBS](zh-cn/internal/KikakkzWBS.md)
+    - [KK的WBS](https://github.com/cryptomore/docs-internal/blob/master/wbs/KikakkzWBS.md)
 
 - Crypto More设计与开发文档
 
