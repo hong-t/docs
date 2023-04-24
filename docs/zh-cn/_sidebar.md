@@ -7,19 +7,19 @@
 
 - 内部文档
 
-  - [WBS](zh-cn/WBS.md)
+  - [WBS](zh-cn/internal/WBS.md)
 
 - Crypto More设计与开发文档
 
-  - [业务目标](zh-cn/ProductTarget.md)
-  - [系统架构](zh-cn/SystemArchitecture.md)
+  - [业务目标](zh-cn/saas/ProductTarget.md)
+  - [系统架构](zh-cn/saas/SystemArchitecture.md)
 
 - Web3Eye设计与开发文档
 
-  - [业务目标](zh-cn/ProductTarget.md)
-  - [系统架构](zh-cn/SystemArchitecture.md)
+  - [业务目标](zh-cn/web3eye/ProductTarget.md)
+  - [系统架构](zh-cn/web3eye/SystemArchitecture.md)
 
 - FIL Peggy设计与开发文档
 
-  - [业务目标](zh-cn/ProductTarget.md)
-  - [系统架构](zh-cn/SystemArchitecture.md)
+  - [业务目标](zh-cn/peggy/ProductTarget.md)
+  - [系统架构](zh-cn/peggy/SystemArchitecture.md)
