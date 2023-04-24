@@ -7,7 +7,7 @@
 
 - 内部文档
 
-  - [WBS]
+  - WBS
     - [KK的WBS](zh-cn/internal/KikakkzWBS.md)
 
 - Crypto More设计与开发文档
