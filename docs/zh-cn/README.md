@@ -1,2 +1,0 @@
-# README ZH-CN
-> readme
