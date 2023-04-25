@@ -9,6 +9,7 @@
 
   - WBS
     - [KK的WBS](https://github.com/cryptomore/docs-internal/blob/master/wbs/KikakkzWBS.md ':include :type=iframe width=100% height=400px')
+    - [remoteMarkdownUrl](https://raw.githubusercontent.com/docsifyjs/docsify/develop/README.md)
 
 - Crypto More设计与开发文档
 
