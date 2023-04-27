@@ -28,8 +28,6 @@
       auto2top: true,
       loadNavbar: true,
       loadSidebar: true,
-      externalLinkTarget: '_self',
-      cornerExternalLinkTarget: '_self',
       search: {
         paths: "auto",
         placeholder: 'Type to search',
@@ -72,7 +70,18 @@
       footer: {
           copy: '<span>&copy; 2023</span>',
           auth: 'Crypto More',
-      }
+      },
+      plugins: [
+          function(hook, vm) {
+	      hook.beforeEach(function(html) {
+	          var url =
+		      "https://github.com/cryptomore/docs/blob/master/" +
+		      vm.route.file;
+	          var editHtml = "[:memo: EDIT DOCUMENT](" + url + ")\n";
+                  return editHtml + html;
+              });
+	  }
+      ]
     }
   </script>
   <!-- Docsify v4 -->
